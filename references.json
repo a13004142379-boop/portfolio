@@ -1,5 +1,115 @@
 [
   {
+    "id": "lab-7688200062157397466",
+    "title": "小肠类器官培养",
+    "category": "科研实验室参考",
+    "tags": "浙大绍研院-科普博士团 / 实验科普参考",
+    "duration": 76,
+    "video": "reference-media/lab/7688200062157397466.mp4",
+    "cover": "reference-media/lab/7688200062157397466.jpg",
+    "author": "浙大绍研院-科普博士团",
+    "source": "https://www.douyin.com/video/7688200062157397466"
+  },
+  {
+    "id": "lab-7685973654139617515",
+    "title": "3D打印人工血管",
+    "category": "科研实验室参考",
+    "tags": "浙大绍研院-科普博士团 / 实验科普参考",
+    "duration": 96,
+    "video": "reference-media/lab/7685973654139617515.mp4",
+    "cover": "reference-media/lab/7685973654139617515.jpg",
+    "author": "浙大绍研院-科普博士团",
+    "source": "https://www.douyin.com/video/7685973654139617515"
+  },
+  {
+    "id": "lab-7650128689400778034",
+    "title": "细菌导航靶向肿瘤实验",
+    "category": "科研实验室参考",
+    "tags": "南京大学魏炜 / 实验科普参考",
+    "duration": 103,
+    "video": "reference-media/lab/7650128689400778034.mp4",
+    "cover": "reference-media/lab/7650128689400778034.jpg",
+    "author": "南京大学魏炜",
+    "source": "https://www.douyin.com/video/7650128689400778034"
+  },
+  {
+    "id": "lab-7652666218897280297",
+    "title": "微量元素为什么并非越多越好",
+    "category": "科研实验室参考",
+    "tags": "南京大学魏炜 / 实验科普参考",
+    "duration": 65,
+    "video": "reference-media/lab/7652666218897280297.mp4",
+    "cover": "reference-media/lab/7652666218897280297.jpg",
+    "author": "南京大学魏炜",
+    "source": "https://www.douyin.com/video/7652666218897280297"
+  },
+  {
+    "id": "lab-7677552319617647097",
+    "title": "没人教的实验技巧_细胞版",
+    "category": "科研实验室参考",
+    "tags": "读博的一只鹿 / 实验科普参考",
+    "duration": 32,
+    "video": "reference-media/lab/7677552319617647097.mp4",
+    "cover": "reference-media/lab/7677552319617647097.jpg",
+    "author": "读博的一只鹿",
+    "source": "https://www.douyin.com/video/7677552319617647097"
+  },
+  {
+    "id": "lab-7678676887019108985",
+    "title": "没人教的实验技巧_WB版",
+    "category": "科研实验室参考",
+    "tags": "读博的一只鹿 / 实验科普参考",
+    "duration": 31,
+    "video": "reference-media/lab/7678676887019108985.mp4",
+    "cover": "reference-media/lab/7678676887019108985.jpg",
+    "author": "读博的一只鹿",
+    "source": "https://www.douyin.com/video/7678676887019108985"
+  },
+  {
+    "id": "lab-7641570999372090651",
+    "title": "LabTour_线粒体提取",
+    "category": "科研实验室参考",
+    "tags": "Poppy读博版 / 实验科普参考",
+    "duration": 116,
+    "video": "reference-media/lab/7641570999372090651.mp4",
+    "cover": "reference-media/lab/7641570999372090651.jpg",
+    "author": "Poppy读博版",
+    "source": "https://www.douyin.com/video/7641570999372090651"
+  },
+  {
+    "id": "lab-7682787667033734218",
+    "title": "小鼠IL6_ELISA实测",
+    "category": "科研实验室参考",
+    "tags": "Poppy读博版 / 实验科普参考",
+    "duration": 310,
+    "video": "reference-media/lab/7682787667033734218.mp4",
+    "cover": "reference-media/lab/7682787667033734218.jpg",
+    "author": "Poppy读博版",
+    "source": "https://www.douyin.com/video/7682787667033734218"
+  },
+  {
+    "id": "lab-7667043077961415781",
+    "title": "8年PCR经验的4个小妙招",
+    "category": "科研实验室参考",
+    "tags": "读博士的兔兔 / 实验科普参考",
+    "duration": 37,
+    "video": "reference-media/lab/7667043077961415781.mp4",
+    "cover": "reference-media/lab/7667043077961415781.jpg",
+    "author": "读博士的兔兔",
+    "source": "https://www.douyin.com/video/7667043077961415781"
+  },
+  {
+    "id": "lab-7683464793194309812",
+    "title": "真的只是蘑菇_生物实验",
+    "category": "科研实验室参考",
+    "tags": "药亦甜 / 实验科普参考",
+    "duration": 72,
+    "video": "reference-media/lab/7683464793194309812.mp4",
+    "cover": "reference-media/lab/7683464793194309812.jpg",
+    "author": "药亦甜",
+    "source": "https://www.douyin.com/video/7683464793194309812"
+  },
+  {
     "id": "reference-01",
     "title": "HBN×丁香医生｜护肤功效测试",
     "category": "实验与产品",

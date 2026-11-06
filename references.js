@@ -14,6 +14,9 @@
     document.getElementById("referencePosition").textContent = `参考视频 ${current + 1} / ${items.length}`;
     document.getElementById("referenceTitle").textContent = item.title;
     document.getElementById("referenceMeta").textContent = `${time(item.duration)} · ${item.tags}`;
+    const source = document.getElementById("referenceSource");
+    source.hidden = !item.source;
+    if (item.source) source.href = item.source; else source.removeAttribute("href");
     video.poster = item.cover; video.src = item.video; video.load();
     video.play().catch(() => {});
   }
