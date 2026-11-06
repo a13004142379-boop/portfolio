@@ -150,12 +150,13 @@ footer{margin-top:120px;border-top:1px solid var(--rule)}
 
 </style>
 <link rel="stylesheet" href="photography.css">
+<link rel="stylesheet" href="references.css">
 </head>
 <body>
 <div class="wrap">
   <header class="top">
     <a href="#top" class="brand" id="name">杨元礼<i>.</i></a>
-    <nav aria-label="主导航"><a href="#works">作品</a><a href="#photography">摄影作品</a><a href="#about">关于我</a><a href="#press" id="navPress">媒体报道</a><a href="#contact">联系</a></nav>
+    <nav aria-label="主导航"><a href="#works">作品</a><a href="#references">参考视频</a><a href="#photography">摄影作品</a><a href="#about">关于我</a><a href="#press" id="navPress">媒体报道</a><a href="#contact">联系</a></nav>
   </header>
 
   <section id="top">
@@ -206,6 +207,17 @@ footer{margin-top:120px;border-top:1px solid var(--rule)}
 <nav class="chips" id="works" aria-label="作品分类"><div class="wrap"><ul id="filters"></ul></div></nav>
 
 <main class="wrap" id="list"><p class="loading mono">正在载入作品…</p></main>
+
+<section class="wrap section references" id="references" aria-labelledby="referencesTitle">
+  <div class="sec-head"><h2 id="referencesTitle">参考视频</h2><span class="mono" id="referencesCount">10 部</span></div>
+  <p class="references-intro">生物医药 · 护肤科学 · 实验与人物访谈</p>
+  <div class="grid" id="referencesGrid"><p class="mono" role="status">正在载入参考视频…</p></div>
+</section>
+<dialog class="reference-dialog" id="referenceDialog" aria-labelledby="referenceTitle">
+  <div class="reference-top"><span class="mono" id="referencePosition"></span><button type="button" id="referenceClose" aria-label="关闭参考视频">关闭 ✕</button></div>
+  <div class="reference-stage"><video id="referenceVideo" controls playsinline preload="none"></video><p id="referenceError" role="status" hidden>视频暂时无法播放，请稍后重试。</p></div>
+  <div class="reference-bottom"><div><h3 id="referenceTitle"></h3><p class="mono" id="referenceMeta"></p></div><div class="p-nav"><button type="button" id="referencePrev">← 上一部</button><button type="button" id="referenceNext">下一部 →</button></div></div>
+</dialog>
 
 <section class="photo-section wrap" id="photography" aria-labelledby="photoTitle"><div class="photo-head"><div><p>摄影作品</p><h2 id="photoTitle">静态画面，也是表达。</h2></div><a class="photo-download" href="yang-yuanli-photography.pdf" target="_blank" rel="noopener">查看完整摄影作品集 · 29 页 ↗</a></div><div class="photo-grid"><button class="photo-card" data-photo="food" aria-label="预览美食摄影"><span class="photo-image"><img src="food.jpg" alt="美食摄影作品预览" loading="lazy"></span><span class="photo-card-info"><strong>美食摄影</strong><span>查看预览 ↗</span></span></button><button class="photo-card" data-photo="beauty" aria-label="预览美妆摄影"><span class="photo-image"><img src="beauty.jpg" alt="美妆摄影作品预览" loading="lazy"></span><span class="photo-card-info"><strong>美妆摄影</strong><span>查看预览 ↗</span></span></button><button class="photo-card" data-photo="fashion" aria-label="预览服装摄影"><span class="photo-image"><img src="fashion.jpg" alt="服装摄影作品预览" loading="lazy"></span><span class="photo-card-info"><strong>服装摄影</strong><span>查看预览 ↗</span></span></button><button class="photo-card" data-photo="product" aria-label="预览产品摄影"><span class="photo-image"><img src="product.jpg" alt="产品摄影作品预览" loading="lazy"></span><span class="photo-card-info"><strong>产品摄影</strong><span>查看预览 ↗</span></span></button></div><p class="photo-note">四个主题选页预览：美食、美妆、服装、产品。完整内容见摄影作品集 PDF。</p></section>
 <section class="wrap section" id="press" hidden>
@@ -366,5 +378,6 @@ loadData().then(d=>{
 </script>
 <dialog class="photo-dialog" id="photoDialog" aria-labelledby="photoDialogTitle"><div class="photo-dialog-head"><h2 id="photoDialogTitle">摄影作品</h2><button id="photoClose" aria-label="关闭摄影预览">关闭 ✕</button></div><img id="photoDialogImage" alt=""><div class="photo-dialog-foot"><button id="photoPrev">← 上一组</button><a id="photoPdfLink" href="yang-yuanli-photography.pdf" target="_blank" rel="noopener">查看完整 PDF</a><button id="photoNext">下一组 →</button></div></dialog>
 <script src="photography.js"></script>
+<script src="references.js" defer></script>
 </body>
 </html>

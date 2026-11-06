@@ -1,0 +1,92 @@
+[
+  {
+    "id": "reference-01",
+    "title": "HBN×丁香医生｜护肤功效测试",
+    "category": "实验与产品",
+    "tags": "护肤成分 / 实验 / 专家 / 棚拍",
+    "duration": 207,
+    "video": "reference-media/video-01.mp4",
+    "cover": "reference-media/cover-01.jpg"
+  },
+  {
+    "id": "reference-02",
+    "title": "赛默飞｜科研技术品牌短片",
+    "category": "短片",
+    "tags": "科研仪器 / 场景串联 / 短片",
+    "duration": 111,
+    "video": "reference-media/video-02.mp4",
+    "cover": "reference-media/cover-02.jpg"
+  },
+  {
+    "id": "reference-03",
+    "title": "马克医疗｜数字医疗与3D打印",
+    "category": "实验与产品",
+    "tags": "医疗科技 / 产品 / 实验室",
+    "duration": 205,
+    "video": "reference-media/video-03.mp4",
+    "cover": "reference-media/cover-03.jpg"
+  },
+  {
+    "id": "reference-04",
+    "title": "华隆生物｜研发与生产",
+    "category": "实验与产线",
+    "tags": "生物科技 / 实验室 / 生产流程",
+    "duration": 257,
+    "video": "reference-media/video-04.mp4",
+    "cover": "reference-media/cover-04.jpg"
+  },
+  {
+    "id": "reference-05",
+    "title": "信达生物｜生物制药品牌片",
+    "category": "生物医药",
+    "tags": "生物医药 / 研发 / 医疗场景",
+    "duration": 237,
+    "video": "reference-media/video-05.mp4",
+    "cover": "reference-media/cover-05.jpg"
+  },
+  {
+    "id": "reference-06",
+    "title": "亿帆医药｜医药研发与产业",
+    "category": "实验与产线",
+    "tags": "医药 / 研发 / 产线 / 动画包装",
+    "duration": 202,
+    "video": "reference-media/video-06.mp4",
+    "cover": "reference-media/cover-06.jpg"
+  },
+  {
+    "id": "reference-07",
+    "title": "中国药谷｜产业与科研",
+    "category": "长片",
+    "tags": "生物医药 / 产业园 / 实验室 / 长片",
+    "duration": 360,
+    "video": "reference-media/video-07.mp4",
+    "cover": "reference-media/cover-07.jpg"
+  },
+  {
+    "id": "reference-08",
+    "title": "三诺生物｜20周年人物纪录",
+    "category": "长片与访谈",
+    "tags": "医疗器械 / 多人访谈 / 长片",
+    "duration": 549,
+    "video": "reference-media/video-08.mp4",
+    "cover": "reference-media/cover-08.jpg"
+  },
+  {
+    "id": "reference-09",
+    "title": "稳健医疗｜30周年品牌片",
+    "category": "人物与品牌",
+    "tags": "医疗健康 / 创始人口播 / 产品",
+    "duration": 174,
+    "video": "reference-media/video-09.mp4",
+    "cover": "reference-media/cover-09.jpg"
+  },
+  {
+    "id": "reference-10",
+    "title": "稳健医疗｜奥运人物访谈（辅助参考）",
+    "category": "访谈辅助参考",
+    "tags": "人物采访 / 双机位 / 剪辑节奏",
+    "duration": 261,
+    "video": "reference-media/video-10.mp4",
+    "cover": "reference-media/cover-10.jpg"
+  }
+]
