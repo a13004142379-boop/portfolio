@@ -1,5 +1,86 @@
 [
   {
+    "id": "doctor-talk-01",
+    "title": "常见皮肤病",
+    "category": "医生科普",
+    "tags": "医生科普 / 皮肤科 / 图文讲解",
+    "duration": 12,
+    "video": "reference-media/doctor-talks/01.mp4",
+    "cover": "reference-media/doctor-talks/01.jpg"
+  },
+  {
+    "id": "doctor-talk-02",
+    "title": "痘痘消退后的护理",
+    "category": "医生科普",
+    "tags": "医生科普 / 皮肤科 / 医生口播",
+    "duration": 19,
+    "video": "reference-media/doctor-talks/02.mp4",
+    "cover": "reference-media/doctor-talks/02.jpg"
+  },
+  {
+    "id": "doctor-talk-03",
+    "title": "低成本护肤好物",
+    "category": "医生科普",
+    "tags": "医生科普 / 皮肤科 / 医生出镜与素材混剪",
+    "duration": 30,
+    "video": "reference-media/doctor-talks/03.mp4",
+    "cover": "reference-media/doctor-talks/03.jpg"
+  },
+  {
+    "id": "doctor-talk-04",
+    "title": "智齿要不要拔",
+    "category": "医生科普",
+    "tags": "医生科普 / 口腔科 / 互动问答",
+    "duration": 27,
+    "video": "reference-media/doctor-talks/04.mp4",
+    "cover": "reference-media/doctor-talks/04.jpg"
+  },
+  {
+    "id": "doctor-talk-05",
+    "title": "鼻喷激素与过敏性鼻炎",
+    "category": "医生科普",
+    "tags": "医生科普 / 耳鼻喉科 / 医生口播",
+    "duration": 85,
+    "video": "reference-media/doctor-talks/05.mp4",
+    "cover": "reference-media/doctor-talks/05.jpg"
+  },
+  {
+    "id": "doctor-talk-06",
+    "title": "CA72-4 指标解读",
+    "category": "医生科普",
+    "tags": "医生科普 / 消化内科 / 诊室讲解",
+    "duration": 64,
+    "video": "reference-media/doctor-talks/06.mp4",
+    "cover": "reference-media/doctor-talks/06.jpg"
+  },
+  {
+    "id": "doctor-talk-08",
+    "title": "儿童康复与手术治疗",
+    "category": "医生科普",
+    "tags": "医生科普 / 康复科 / 诊室讲解",
+    "duration": 399,
+    "video": "reference-media/doctor-talks/08.mp4",
+    "cover": "reference-media/doctor-talks/08.jpg"
+  },
+  {
+    "id": "doctor-talk-09",
+    "title": "患者怎么形容疼",
+    "category": "医生科普",
+    "tags": "医生科普 / 皮肤科 / 医生日常",
+    "duration": 10,
+    "video": "reference-media/doctor-talks/09.mp4",
+    "cover": "reference-media/doctor-talks/09.jpg"
+  },
+  {
+    "id": "doctor-talk-10",
+    "title": "癌症早期信号",
+    "category": "医生科普",
+    "tags": "医生科普 / 肿瘤科 / 图文科普",
+    "duration": 8,
+    "video": "reference-media/doctor-talks/10.mp4",
+    "cover": "reference-media/doctor-talks/10.jpg"
+  },
+  {
     "id": "ai-commercial-7651266235556542427",
     "title": "便携音箱｜产品创意短片",
     "category": "AI商业参考",

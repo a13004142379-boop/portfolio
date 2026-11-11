@@ -37,7 +37,7 @@
     const card = event.target.closest("[data-reference]");
     if(card) open(Number(card.dataset.reference));
   });
-  fetch("references.json?v=20261109-ai").then(response => {
+  fetch("references.json?v=20261111-doctor").then(response => {
     if(!response.ok) throw new Error("参考视频暂时无法加载");
     return response.json();
   }).then(data => {
